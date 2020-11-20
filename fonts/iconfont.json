@@ -1,0 +1,72 @@
+{
+  "id": "2218827",
+  "name": "mi_shop",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "338376",
+      "name": "充值",
+      "font_class": "chongzhi",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "536732",
+      "name": "秒杀",
+      "font_class": "miaosha",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "584249",
+      "name": "右箭头",
+      "font_class": "iconfontjiantou3",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "3025158",
+      "name": "以旧换新",
+      "font_class": "icon-_yijiuhuanxin",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "3120945",
+      "name": "米粉卡",
+      "font_class": "mifenqia-copy",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "8875500",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "10184610",
+      "name": "小米商城F码",
+      "font_class": "xiaomishangchengFma",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "10664706",
+      "name": "搜索 search",
+      "font_class": "search",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "10752240",
+      "name": "企业",
+      "font_class": "qiye",
+      "unicode": "e855",
+      "unicode_decimal": 59477
+    }
+  ]
+}
